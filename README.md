@@ -29,7 +29,7 @@ For detailed setup and execution instructions, please refer to [HOW_TO_RUN.md](H
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone 
 cd gpu_suhani_course3
 ```
 
